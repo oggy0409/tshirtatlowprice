@@ -6,15 +6,15 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Bùm</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Bùm Bùm" />
         <p className="description">
           Test nhúng link <Link href="https://google.com"><a>Google</a></Link>
-          Hello World! Get started by editing <code>pages/index.js</code>
+          Đẹp trai không cần yêu ai, chym to không lo chết đói! <code>Bùm!</code>
         </p>
       </main>
 
